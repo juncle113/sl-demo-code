@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11031cf8-783c-4797-8dac-170cd8360395" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/microservice/sl-demo-dubbo" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WwDG7mmmCcLMpGDcPMIbmmpgG3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sl.demo.dubbo.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatis-plus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sl.demo.code.db.mybatisplus.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sl.demo.code.springcloud.eurekaclient.EurekaClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sl.demo.code.springcloud.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuaweiRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sl.demo.huawei.huaweiredis.HuaweiRedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sl.demo.code.db.RedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11031cf8-783c-4797-8dac-170cd8360395" name="Default Changelist" comment="" />
+      <created>1580051664955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580051664955</updated>
+      <workItem from="1580051666248" duration="2985000" />
+      <workItem from="1580055033338" duration="717000" />
+      <workItem from="1580055755736" duration="256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/microservice/sl-demo-dubbo" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="164" key="#Project_Structure" timestamp="1580051717587">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state x="460" y="164" key="#Project_Structure/0.23.1920.1113@0.23.1920.1113" timestamp="1580051717587" />
+    <state x="666" y="95" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580053475517">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state x="666" y="95" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1920.1113@0.23.1920.1113" timestamp="1580053475517" />
+    <state x="635" y="278" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580053581215">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state x="635" y="278" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1113@0.23.1920.1113" timestamp="1580053581215" />
+    <state width="1868" height="361" key="GridCell.Tab.0.bottom" timestamp="1580056224498">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state width="1868" height="361" key="GridCell.Tab.0.bottom/0.23.1920.1113@0.23.1920.1113" timestamp="1580056224498" />
+    <state width="1868" height="361" key="GridCell.Tab.0.center" timestamp="1580056224496">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state width="1868" height="361" key="GridCell.Tab.0.center/0.23.1920.1113@0.23.1920.1113" timestamp="1580056224496" />
+    <state width="1868" height="361" key="GridCell.Tab.0.left" timestamp="1580056224496">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state width="1868" height="361" key="GridCell.Tab.0.left/0.23.1920.1113@0.23.1920.1113" timestamp="1580056224496" />
+    <state width="1868" height="361" key="GridCell.Tab.0.right" timestamp="1580056224497">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state width="1868" height="361" key="GridCell.Tab.0.right/0.23.1920.1113@0.23.1920.1113" timestamp="1580056224497" />
+    <state x="360" y="95" key="SettingsEditor" timestamp="1580055166518">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state x="360" y="95" key="SettingsEditor/0.23.1920.1113@0.23.1920.1113" timestamp="1580055166518" />
+    <state x="699" y="482" width="952" height="654" key="find.popup" timestamp="1580056034888">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state x="699" y="482" width="952" height="654" key="find.popup/0.23.1920.1113@0.23.1920.1113" timestamp="1580056034888" />
+    <state x="541" y="104" width="838" height="1032" key="search.everywhere.popup" timestamp="1580053614838">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state x="541" y="104" width="838" height="1032" key="search.everywhere.popup/0.23.1920.1113@0.23.1920.1113" timestamp="1580053614838" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+sl/demo/code/db/mybatisplus/entity/User.class
+sl/demo/code/db/mybatisplus/Application.class
+sl/demo/code/db/mybatisplus/mapper/UserMapper.class
+sl/demo/code/db/mybatisplus/config/MybatisPlusConfig.class

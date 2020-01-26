@@ -1,0 +1,37 @@
+---
+spring:
+  profiles: peer1
+server:
+  port: 8761
+
+eureka:
+  instance:
+    prefer-ip-address: true
+    hostname: peer1
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://peer2:8762/eureka/
+  server:
+    # server自我保护（默认开启）
+    # enable-self-preservation: false
+
+---
+spring:
+  profiles: peer2
+server:
+  port: 8762
+
+eureka:
+  instance:
+    prefer-ip-address: true
+    hostname: peer2
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://peer1:8761/eureka/
+  server:
+  # server自我保护（默认开启）
+  # enable-self-preservation: false
