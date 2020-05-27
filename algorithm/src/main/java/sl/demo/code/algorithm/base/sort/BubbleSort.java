@@ -4,16 +4,13 @@ import java.util.Arrays;
 
 public class BubbleSort {
     public static void sort(int[] arr) {
-        boolean isSort;
-        int temp;
-
         for (int i = 0; i < arr.length - 1; i++) {
-            isSort = true;
+            boolean isSort = true;
             for (int j = 0; j < arr.length - 1 - i; j++) {
                 if (arr[j + 1] < arr[j]) {
-                    temp = arr[j];
+                    int tmp = arr[j];
                     arr[j] = arr[j + 1];
-                    arr[j + 1] = temp;
+                    arr[j + 1] = tmp;
                     isSort = false;
                 }
             }
